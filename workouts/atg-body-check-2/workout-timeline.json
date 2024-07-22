@@ -1,0 +1,764 @@
+[
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition__1_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Welcome to the workout. We're about to embark on a challenging session. Forget about everything else and fully commit to this workout."
+  },
+  {
+    "elapsed_seconds": 60,
+    "play_audio": "foam__2_1.mp3",
+    "type": "FOAM",
+    "prompt_text": "Begin foam rolling, concentrate on working out any knots."
+  },
+  {
+    "elapsed_seconds": 100,
+    "play_audio": "foam__2_2.mp3",
+    "type": "FOAM",
+    "prompt_text": "Stay focused and consistent. Try to relax your muscles."
+  },
+  {
+    "elapsed_seconds": 165,
+    "play_audio": "foam__2_3.mp3",
+    "type": "FOAM",
+    "prompt_text": "Few seconds left, keep the intensity."
+  },
+  {
+    "elapsed_seconds": 180,
+    "play_audio": "stretch__3_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Begin toe sit with both knees on the ground, toes curled under, sit back onto your heels."
+  },
+  {
+    "elapsed_seconds": 195,
+    "play_audio": "stretch__3_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Keep back straight, hands on your thighs. Feel stretch in soles and toes."
+  },
+  {
+    "elapsed_seconds": 220,
+    "play_audio": "stretch__3_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Maintain position, keep form intact. Remember to breathe."
+  },
+  {
+    "elapsed_seconds": 240,
+    "play_audio": "stretch__4_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Start on left foot, press heel to floor, feeling stretch in calf."
+  },
+  {
+    "elapsed_seconds": 250,
+    "play_audio": "stretch__4_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Maintain posture, bend forward at the hip, deepen stretch."
+  },
+  {
+    "elapsed_seconds": 285,
+    "play_audio": "stretch__4_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Keep toes flat, feel tension in calf muscle. Hold."
+  },
+  {
+    "elapsed_seconds": 305,
+    "play_audio": "stretch__5_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Initiate right calf stretch. Focus on form."
+  },
+  {
+    "elapsed_seconds": 325,
+    "play_audio": "stretch__5_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Hold the stretch, maximizing range of motion."
+  },
+  {
+    "elapsed_seconds": 345,
+    "play_audio": "stretch__5_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Maintain the position. Remember to breathe."
+  },
+  {
+    "elapsed_seconds": 360,
+    "play_audio": "stretch__6_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Start Jefferson Curl, focus on slow, controlled movement."
+  },
+  {
+    "elapsed_seconds": 375,
+    "play_audio": "stretch__6_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Feel stretch through back of legs. Maintain form."
+  },
+  {
+    "elapsed_seconds": 405,
+    "play_audio": "stretch__6_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Maximize range of motion. Roll up slowly, vertebrae by vertebrae."
+  },
+  {
+    "elapsed_seconds": 420,
+    "play_audio": "stretch__7_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Begin ATG Split Squats- focus on form and full range to motion."
+  },
+  {
+    "elapsed_seconds": 445,
+    "play_audio": "stretch__7_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Keep your torso upright and bend your knee into a deep squat."
+  },
+  {
+    "elapsed_seconds": 460,
+    "play_audio": "stretch__7_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Make sure to feel the stretch in your left leg while maintaining balance."
+  },
+  {
+    "elapsed_seconds": 480,
+    "play_audio": "stretch__8_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Assume position for ATG Split Squat right side."
+  },
+  {
+    "elapsed_seconds": 495,
+    "play_audio": "stretch__8_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Stretch deep. Maintain form, focus on range of motion."
+  },
+  {
+    "elapsed_seconds": 520,
+    "play_audio": "stretch__8_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Keep your posture upright, no rush on reps."
+  },
+  {
+    "elapsed_seconds": 540,
+    "play_audio": "stretch__9_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Start hip swivels. Emphasize range of motion."
+  },
+  {
+    "elapsed_seconds": 555,
+    "play_audio": "stretch__9_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Keep base firm. Rotate hips with form."
+  },
+  {
+    "elapsed_seconds": 585,
+    "play_audio": "stretch__9_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Prepare for next exercise, slow down rotation."
+  },
+  {
+    "elapsed_seconds": 600,
+    "play_audio": "stretch__10_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Initiate bridge position. Concentrate on form."
+  },
+  {
+    "elapsed_seconds": 630,
+    "play_audio": "stretch__10_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Increase range of motion. Push hips higher."
+  },
+  {
+    "elapsed_seconds": 645,
+    "play_audio": "stretch__10_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Maintain. Keep breathing, steady control."
+  },
+  {
+    "elapsed_seconds": 660,
+    "play_audio": "stretch__11_1.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Start with your hands and knees on the mat."
+  },
+  {
+    "elapsed_seconds": 680,
+    "play_audio": "stretch__11_2.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Inhale as you drop your belly to arch your spine, lift head and tailbone"
+  },
+  {
+    "elapsed_seconds": 705,
+    "play_audio": "stretch__11_3.mp3",
+    "type": "STRETCH",
+    "prompt_text": "Exhale and round your spine while looking at your navel. Repeat fluid motion"
+  },
+  {
+    "elapsed_seconds": 720,
+    "play_audio": "transition__12_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Begin transitioning to the treadmill now for pain recovery."
+  },
+  {
+    "elapsed_seconds": 1080,
+    "play_audio": "transition__14_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Transition to the lifting station."
+  },
+  {
+    "elapsed_seconds": 1200,
+    "play_audio": "lift__15_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin ATG Split Squats, left side."
+  },
+  {
+    "elapsed_seconds": 1205,
+    "play_audio": "lift__15_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Maintain upright torso throughout."
+  },
+  {
+    "elapsed_seconds": 1220,
+    "play_audio": "lift__15_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Lower slowly while keeping core tight."
+  },
+  {
+    "elapsed_seconds": 1245,
+    "play_audio": "lift__15_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Mind toe and knee alignment on descent."
+  },
+  {
+    "elapsed_seconds": 1260,
+    "play_audio": "rest__16_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down, begin your rest now."
+  },
+  {
+    "elapsed_seconds": 1280,
+    "play_audio": "rest__16_2.mp3",
+    "type": "REST",
+    "prompt_text": "Continue to rest, catch your breath."
+  },
+  {
+    "elapsed_seconds": 1345,
+    "play_audio": "rest__16_3.mp3",
+    "type": "REST",
+    "prompt_text": "Prepare for your next interval in 5 seconds."
+  },
+  {
+    "elapsed_seconds": 1350,
+    "play_audio": "lift__17_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "We're starting with ATG Split Squats on the right side."
+  },
+  {
+    "elapsed_seconds": 1357,
+    "play_audio": "lift__17_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your back straight and focus tension on your right glute."
+  },
+  {
+    "elapsed_seconds": 1398,
+    "play_audio": "lift__17_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Last one, make sure your knee is in line with your toes."
+  },
+  {
+    "elapsed_seconds": 1410,
+    "play_audio": "rest__18_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down, it's time to rest."
+  },
+  {
+    "elapsed_seconds": 1420,
+    "play_audio": "rest__18_2.mp3",
+    "type": "REST",
+    "prompt_text": "Keep your breathing steady and calm."
+  },
+  {
+    "elapsed_seconds": 1485,
+    "play_audio": "rest__18_3.mp3",
+    "type": "REST",
+    "prompt_text": "15 more seconds before we get back to work."
+  },
+  {
+    "elapsed_seconds": 1500,
+    "play_audio": "lift__19_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "We're onto ATG Split Squats, set 2. Left leg."
+  },
+  {
+    "elapsed_seconds": 1510,
+    "play_audio": "lift__19_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your front foot flat, sink down until your back knee touches the floor."
+  },
+  {
+    "elapsed_seconds": 1525,
+    "play_audio": "lift__19_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Chest up, weight on your front heel, push up."
+  },
+  {
+    "elapsed_seconds": 1550,
+    "play_audio": "lift__19_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Maintain form on these last reps. Don't rush."
+  },
+  {
+    "elapsed_seconds": 1560,
+    "play_audio": "rest__20_1.mp3",
+    "type": "REST",
+    "prompt_text": "Take it easy now, you've earned this rest."
+  },
+  {
+    "elapsed_seconds": 1580,
+    "play_audio": "rest__20_2.mp3",
+    "type": "REST",
+    "prompt_text": "Relax your muscles and take deep breaths."
+  },
+  {
+    "elapsed_seconds": 1635,
+    "play_audio": "rest__20_3.mp3",
+    "type": "REST",
+    "prompt_text": "Still resting, just a few more seconds."
+  },
+  {
+    "elapsed_seconds": 1650,
+    "play_audio": "lift__21_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin your ATG Split Squats with right leg forward."
+  },
+  {
+    "elapsed_seconds": 1660,
+    "play_audio": "lift__21_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Ensure your knee tracks over your toes, chest remains upright."
+  },
+  {
+    "elapsed_seconds": 1680,
+    "play_audio": "lift__21_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Push through the heel to rise up, control the descent."
+  },
+  {
+    "elapsed_seconds": 1710,
+    "play_audio": "rest__22_1.mp3",
+    "type": "REST",
+    "prompt_text": "Begin your rest period. Deep breaths."
+  },
+  {
+    "elapsed_seconds": 1740,
+    "play_audio": "rest__22_2.mp3",
+    "type": "REST",
+    "prompt_text": "Continue resting. Hydrate if needed."
+  },
+  {
+    "elapsed_seconds": 1790,
+    "play_audio": "rest__22_3.mp3",
+    "type": "REST",
+    "prompt_text": "Almost done resting. Prepare for next interval."
+  },
+  {
+    "elapsed_seconds": 1800,
+    "play_audio": "lift__23_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "We're starting ATG Split Squats. Left foot forward."
+  },
+  {
+    "elapsed_seconds": 1810,
+    "play_audio": "lift__23_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Chest up, weight on your heels, go as low as you can."
+  },
+  {
+    "elapsed_seconds": 1840,
+    "play_audio": "lift__23_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Stay balanced. Maintain tension while rising back up."
+  },
+  {
+    "elapsed_seconds": 1855,
+    "play_audio": "lift__23_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Finish strong. Perfect form."
+  },
+  {
+    "elapsed_seconds": 1860,
+    "play_audio": "rest__24_1.mp3",
+    "type": "REST",
+    "prompt_text": "Begin rest period."
+  },
+  {
+    "elapsed_seconds": 1880,
+    "play_audio": "rest__24_2.mp3",
+    "type": "REST",
+    "prompt_text": "Keep breathing."
+  },
+  {
+    "elapsed_seconds": 1930,
+    "play_audio": "rest__24_3.mp3",
+    "type": "REST",
+    "prompt_text": "Prepare for next segment."
+  },
+  {
+    "elapsed_seconds": 1950,
+    "play_audio": "lift__25_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting ATG Split Squats. Make sure to keep a straight back."
+  },
+  {
+    "elapsed_seconds": 1970,
+    "play_audio": "lift__25_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Bend both knees. Ensure front thigh is parallel to floor."
+  },
+  {
+    "elapsed_seconds": 1995,
+    "play_audio": "lift__25_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep core tight, distribute weight evenly on foot."
+  },
+  {
+    "elapsed_seconds": 2005,
+    "play_audio": "lift__25_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "End of segment."
+  },
+  {
+    "elapsed_seconds": 2010,
+    "play_audio": "rest__26_1.mp3",
+    "type": "REST",
+    "prompt_text": "Begin rest period."
+  },
+  {
+    "elapsed_seconds": 2020,
+    "play_audio": "rest__26_2.mp3",
+    "type": "REST",
+    "prompt_text": "Relax, control your breathing."
+  },
+  {
+    "elapsed_seconds": 2095,
+    "play_audio": "rest__26_3.mp3",
+    "type": "REST",
+    "prompt_text": "Rest period ends in 5 seconds."
+  },
+  {
+    "elapsed_seconds": 2100,
+    "play_audio": "lift__27_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting good mornings. Maintain a slight bend in your knees, a straight back, and a tight core."
+  },
+  {
+    "elapsed_seconds": 2115,
+    "play_audio": "lift__27_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Drive your hips back, keeping your weight on your heels. Move lower until your torso is parallel to the ground."
+  },
+  {
+    "elapsed_seconds": 2140,
+    "play_audio": "lift__27_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Slowly rise back to your starting position, don't rush. Hold your breath at the bottom, exhale on the rise."
+  },
+  {
+    "elapsed_seconds": 2160,
+    "play_audio": "rest__28_1.mp3",
+    "type": "REST",
+    "prompt_text": "Time for some rest, slow down."
+  },
+  {
+    "elapsed_seconds": 2175,
+    "play_audio": "rest__28_2.mp3",
+    "type": "REST",
+    "prompt_text": "Maintain slow pace, keep resting."
+  },
+  {
+    "elapsed_seconds": 2245,
+    "play_audio": "rest__28_3.mp3",
+    "type": "REST",
+    "prompt_text": "Prepare for your next interval soon."
+  },
+  {
+    "elapsed_seconds": 2250,
+    "play_audio": "lift__29_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Let's start with the second set of Good Mornings; remember to keep your feet hip-width apart and slight bend in your knees."
+  },
+  {
+    "elapsed_seconds": 2265,
+    "play_audio": "lift__29_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your back neutral, and slowly hinge at your hips, lowering your chest forward and keeping the weight close to your body."
+  },
+  {
+    "elapsed_seconds": 2295,
+    "play_audio": "lift__29_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "As you lift, focus on pushing through your heels to engage your hamstrings and glutes. Remember breathe out as you lift."
+  },
+  {
+    "elapsed_seconds": 2310,
+    "play_audio": "rest__30_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down, begin your rest now."
+  },
+  {
+    "elapsed_seconds": 2330,
+    "play_audio": "rest__30_2.mp3",
+    "type": "REST",
+    "prompt_text": "Maintain your rest, don't rush."
+  },
+  {
+    "elapsed_seconds": 2380,
+    "play_audio": "rest__30_3.mp3",
+    "type": "REST",
+    "prompt_text": "Continue resting, ease your heart rate."
+  },
+  {
+    "elapsed_seconds": 2400,
+    "play_audio": "lift__31_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Start 'Good Mornings'. Remember - keep back neutral, hips hinge."
+  },
+  {
+    "elapsed_seconds": 2415,
+    "play_audio": "lift__31_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Slowly bring torso parallel to the ground, feel the stretch."
+  },
+  {
+    "elapsed_seconds": 2440,
+    "play_audio": "lift__31_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Exhale, raise back to standing, keep abdominal muscles tight. Finish it strong."
+  },
+  {
+    "elapsed_seconds": 2455,
+    "play_audio": "lift__31_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "You are done. Prepare for next interval."
+  },
+  {
+    "elapsed_seconds": 2460,
+    "play_audio": "rest__32_1.mp3",
+    "type": "REST",
+    "prompt_text": "Now it's time to rest. Do nothing but breathe."
+  },
+  {
+    "elapsed_seconds": 2480,
+    "play_audio": "rest__32_2.mp3",
+    "type": "REST",
+    "prompt_text": "Don't move, you have about a minute left."
+  },
+  {
+    "elapsed_seconds": 2530,
+    "play_audio": "rest__32_3.mp3",
+    "type": "REST",
+    "prompt_text": "20 seconds of rest left, stay still."
+  },
+  {
+    "elapsed_seconds": 2550,
+    "play_audio": "lift__33_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting goblet squats. Keep chest up, weight in heels."
+  },
+  {
+    "elapsed_seconds": 2558,
+    "play_audio": "lift__33_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Brace core while squatting. Ensure elbows touch knees."
+  },
+  {
+    "elapsed_seconds": 2605,
+    "play_audio": "lift__33_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Last repetition, maintain form, then rack weight."
+  },
+  {
+    "elapsed_seconds": 2610,
+    "play_audio": "rest__34_1.mp3",
+    "type": "REST",
+    "prompt_text": "Ease up, begin your rest period."
+  },
+  {
+    "elapsed_seconds": 2625,
+    "play_audio": "rest__34_2.mp3",
+    "type": "REST",
+    "prompt_text": "Continue resting. Keep your body relaxed."
+  },
+  {
+    "elapsed_seconds": 2685,
+    "play_audio": "rest__34_3.mp3",
+    "type": "REST",
+    "prompt_text": "Five seconds left, prepare to transition to the next segment."
+  },
+  {
+    "elapsed_seconds": 2700,
+    "play_audio": "lift__35_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin goblet squats with a 75lb weight."
+  },
+  {
+    "elapsed_seconds": 2715,
+    "play_audio": "lift__35_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Maintain a firm grip on the weight, keeping it close to your chest."
+  },
+  {
+    "elapsed_seconds": 2730,
+    "play_audio": "lift__35_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your chest up and squat deep, driving through heels on the push-up."
+  },
+  {
+    "elapsed_seconds": 2745,
+    "play_audio": "lift__35_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Stay focused, maintain intensity through all 8 reps."
+  },
+  {
+    "elapsed_seconds": 2760,
+    "play_audio": "rest__36_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down and start your rest period now."
+  },
+  {
+    "elapsed_seconds": 2800,
+    "play_audio": "rest__36_2.mp3",
+    "type": "REST",
+    "prompt_text": "Keep breathing, stay relaxed."
+  },
+  {
+    "elapsed_seconds": 2845,
+    "play_audio": "rest__36_3.mp3",
+    "type": "REST",
+    "prompt_text": "Rest period is ending in 5 seconds."
+  },
+  {
+    "elapsed_seconds": 2850,
+    "play_audio": "lift__37_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin goblet squats. Maintain a firm grip on the weight."
+  },
+  {
+    "elapsed_seconds": 2865,
+    "play_audio": "lift__37_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your back straight. Engage your core throughout."
+  },
+  {
+    "elapsed_seconds": 2880,
+    "play_audio": "lift__37_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Ensure your knees are aligned with your feet while squatting. Breathe deep."
+  },
+  {
+    "elapsed_seconds": 2910,
+    "play_audio": "rest__38_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down."
+  },
+  {
+    "elapsed_seconds": 2925,
+    "play_audio": "rest__38_2.mp3",
+    "type": "REST",
+    "prompt_text": "Begin to rest."
+  },
+  {
+    "elapsed_seconds": 2970,
+    "play_audio": "rest__38_3.mp3",
+    "type": "REST",
+    "prompt_text": "Enjoy the rest period."
+  },
+  {
+    "elapsed_seconds": 3000,
+    "play_audio": "lift__39_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting face pull exercise. Grip handles firmly and stand straight."
+  },
+  {
+    "elapsed_seconds": 3015,
+    "play_audio": "lift__39_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Pull handles towards your face. Squeeze shoulder blades together."
+  },
+  {
+    "elapsed_seconds": 3030,
+    "play_audio": "lift__39_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Release slowly, maintaining control. Keep spine neutral."
+  },
+  {
+    "elapsed_seconds": 3060,
+    "play_audio": "rest__40_1.mp3",
+    "type": "REST",
+    "prompt_text": "You've done well. This is a rest segment. Start slowing down."
+  },
+  {
+    "elapsed_seconds": 3075,
+    "play_audio": "rest__40_2.mp3",
+    "type": "REST",
+    "prompt_text": "Keep relaxing. You still have a minute left for rest."
+  },
+  {
+    "elapsed_seconds": 3120,
+    "play_audio": "rest__40_3.mp3",
+    "type": "REST",
+    "prompt_text": "Almost finished with rest, final 30 seconds remaining."
+  },
+  {
+    "elapsed_seconds": 3150,
+    "play_audio": "lift__41_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin your face pull exercise, set 2."
+  },
+  {
+    "elapsed_seconds": 3160,
+    "play_audio": "lift__41_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Remember to pull the handles towards your forehead. Elbows should be positioned above your shoulders."
+  },
+  {
+    "elapsed_seconds": 3180,
+    "play_audio": "lift__41_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your torso stationary. Engage your core and squeeze your shoulder blades together at the top of the motion."
+  },
+  {
+    "elapsed_seconds": 3205,
+    "play_audio": "lift__41_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Last rep. Maintain form."
+  },
+  {
+    "elapsed_seconds": 3210,
+    "play_audio": "rest__42_1.mp3",
+    "type": "REST",
+    "prompt_text": "Start your rest. Breathe."
+  },
+  {
+    "elapsed_seconds": 3230,
+    "play_audio": "rest__42_2.mp3",
+    "type": "REST",
+    "prompt_text": "Halfway through your rest. Keep it slow."
+  },
+  {
+    "elapsed_seconds": 3285,
+    "play_audio": "rest__42_3.mp3",
+    "type": "REST",
+    "prompt_text": "Finish your rest, get ready for next exercise."
+  },
+  {
+    "elapsed_seconds": 3300,
+    "play_audio": "lift__43_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting set 3 of face pulls. Stand upright, hold weight at chest height."
+  },
+  {
+    "elapsed_seconds": 3315,
+    "play_audio": "lift__43_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Pull weight directly towards your face, keep your elbows high."
+  },
+  {
+    "elapsed_seconds": 3330,
+    "play_audio": "lift__43_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Control as you return to starting position. Keep it steady."
+  }
+]
