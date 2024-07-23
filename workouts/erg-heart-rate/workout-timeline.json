@@ -1,0 +1,284 @@
+[
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_warmup_start_1_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Begin with the rowing erg warm-up, focusing on proper rowing form."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "transition_warmup_start_1_2.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Keep going, aim to gradually increase your heart rate."
+  },
+  {
+    "elapsed_seconds": 60,
+    "play_audio": "transition_warmup_start_1_3.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Make sure you maintain your form as you row."
+  },
+  {
+    "elapsed_seconds": 90,
+    "play_audio": "transition_warmup_start_1_4.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Let's keep the pace easy and consistent."
+  },
+  {
+    "elapsed_seconds": 120,
+    "play_audio": "transition_warmup_start_1_5.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Maintain pressure and sustain your rhythm."
+  },
+  {
+    "elapsed_seconds": 150,
+    "play_audio": "transition_warmup_start_1_6.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Increase your rowing pace slightly."
+  },
+  {
+    "elapsed_seconds": 180,
+    "play_audio": "transition_warmup_start_1_7.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Heart rate should start to feel up, hold onto this."
+  },
+  {
+    "elapsed_seconds": 210,
+    "play_audio": "transition_warmup_start_1_8.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Keep the rowing form, pull with your arms, push with your legs."
+  },
+  {
+    "elapsed_seconds": 240,
+    "play_audio": "transition_warmup_start_1_9.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "You're doing great, just a few moments left."
+  },
+  {
+    "elapsed_seconds": 270,
+    "play_audio": "transition_warmup_start_1_10.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Stay focused, we're transitioning to Cardio Zone soon."
+  },
+  {
+    "elapsed_seconds": 300,
+    "play_audio": "cardio_cardio_start_2_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with a strong, controlled pull. Maintain form."
+  },
+  {
+    "elapsed_seconds": 330,
+    "play_audio": "cardio_cardio_start_2_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep the pace - your target speed is in the cardio zone."
+  },
+  {
+    "elapsed_seconds": 360,
+    "play_audio": "cardio_cardio_start_2_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Rowing form check - use legs, hips, arms. Arms, hips, legs on recovery."
+  },
+  {
+    "elapsed_seconds": 390,
+    "play_audio": "cardio_cardio_start_2_4.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain steady rhythm. Verify speed."
+  },
+  {
+    "elapsed_seconds": 420,
+    "play_audio": "cardio_cardio_start_2_5.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Good form will support a steady heart rate."
+  },
+  {
+    "elapsed_seconds": 450,
+    "play_audio": "cardio_cardio_start_2_6.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Stay controlled throughout - stability is key to maintaining speed."
+  },
+  {
+    "elapsed_seconds": 480,
+    "play_audio": "cardio_cardio_start_2_7.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Ensure good posture. Remember legs, hips, arms."
+  },
+  {
+    "elapsed_seconds": 510,
+    "play_audio": "cardio_cardio_start_2_8.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain that cardio zone speed. Adapt your pace as necessary."
+  },
+  {
+    "elapsed_seconds": 540,
+    "play_audio": "cardio_cardio_start_2_9.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Heart rate check - stay in the target range."
+  },
+  {
+    "elapsed_seconds": 570,
+    "play_audio": "cardio_cardio_start_2_10.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Final form check - make each stroke count."
+  },
+  {
+    "elapsed_seconds": 600,
+    "play_audio": "cardio_cardio_start_2_11.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep that pace - maintain that target cardio speed."
+  },
+  {
+    "elapsed_seconds": 630,
+    "play_audio": "cardio_cardio_start_2_12.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Last minute. Keep your form and your heart rate in target."
+  },
+  {
+    "elapsed_seconds": 660,
+    "play_audio": "cardio_cardio_start_2_13.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Final push, stay consistent with your strokes."
+  },
+  {
+    "elapsed_seconds": 685,
+    "play_audio": "cardio_cardio_start_2_14.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Cool down, prepare for the next interval."
+  },
+  {
+    "elapsed_seconds": 900,
+    "play_audio": "hiit_anaerobic_start_3_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start Rowing Erg Anaerobic Zone, push off with power in your legs, maintain a straight back."
+  },
+  {
+    "elapsed_seconds": 930,
+    "play_audio": "hiit_anaerobic_start_3_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Increase your rowing intensity. Inhale on the recovery, exhale on the drive."
+  },
+  {
+    "elapsed_seconds": 960,
+    "play_audio": "hiit_anaerobic_start_3_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Drive with your legs, lean at your hips, pull with your arms.  Maintain target heart rate between 145-155."
+  },
+  {
+    "elapsed_seconds": 1200,
+    "play_audio": "hiit_anaerobic_start_3_4.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain form and intensity. Remember, exhale on the drive."
+  },
+  {
+    "elapsed_seconds": 1470,
+    "play_audio": "hiit_anaerobic_start_3_5.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare to transition to VO2 Max Zone soon."
+  },
+  {
+    "elapsed_seconds": 1500,
+    "play_audio": "hiit_vo2max_start_4_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin the \"Rowing Erg VO2 Max Zone\". Lower your body in a movement that initiates from the hips, maintain a neutral spine."
+  },
+  {
+    "elapsed_seconds": 1530,
+    "play_audio": "hiit_vo2max_start_4_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Take a strong drive using your legs and follow through with your arms. Keep heart rate between 155-165."
+  },
+  {
+    "elapsed_seconds": 1560,
+    "play_audio": "hiit_vo2max_start_4_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Power through with full body movement and controlled returns. Stay in VO2 max zone for maximum effort. Keep going."
+  },
+  {
+    "elapsed_seconds": 1750,
+    "play_audio": "hiit_vo2max_start_4_4.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare for transition to Anaerobic Zone. Maintain form."
+  },
+  {
+    "elapsed_seconds": 1800,
+    "play_audio": "hiit_anaerobic_2_start_5_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Rowing Erg Anaerobic Zone. Straighten your back, pull with your whole body."
+  },
+  {
+    "elapsed_seconds": 1830,
+    "play_audio": "hiit_anaerobic_2_start_5_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain your heart rate within 145-155. Avoid jerking row bar."
+  },
+  {
+    "elapsed_seconds": 2100,
+    "play_audio": "hiit_anaerobic_2_start_5_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Stay in the anaerobic zone. Relax your grip ease the pull slightly."
+  },
+  {
+    "elapsed_seconds": 2395,
+    "play_audio": "hiit_anaerobic_2_start_5_4.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare to transition."
+  },
+  {
+    "elapsed_seconds": 2400,
+    "play_audio": "transition_cooldown_start_6_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Start your rowing erg cool down, focus on form while gradually decreasing intensity."
+  },
+  {
+    "elapsed_seconds": 2430,
+    "play_audio": "transition_cooldown_start_6_2.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Maintain form and continue reducing your intensity."
+  },
+  {
+    "elapsed_seconds": 2460,
+    "play_audio": "transition_cooldown_start_6_3.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Gradually decrease rowing speed and maintain your form."
+  },
+  {
+    "elapsed_seconds": 2490,
+    "play_audio": "transition_cooldown_start_6_4.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Continue your cool down with focused form, easing off the rowing intensity."
+  },
+  {
+    "elapsed_seconds": 2520,
+    "play_audio": "transition_cooldown_start_6_5.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Stay controlled and smooth as we wind down this rowing segment."
+  },
+  {
+    "elapsed_seconds": 2550,
+    "play_audio": "transition_cooldown_start_6_6.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Tension should be decreasing, but keep hold of that form."
+  },
+  {
+    "elapsed_seconds": 2580,
+    "play_audio": "transition_cooldown_start_6_7.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Maintain form as we approach the end of the cool down."
+  },
+  {
+    "elapsed_seconds": 2610,
+    "play_audio": "transition_cooldown_start_6_8.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Stay focused, continue to cool down."
+  },
+  {
+    "elapsed_seconds": 2640,
+    "play_audio": "transition_cooldown_start_6_9.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Almost there, continue to slowly ease off intensity."
+  },
+  {
+    "elapsed_seconds": 2670,
+    "play_audio": "transition_cooldown_start_6_10.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Keep your rowing form, as we slowly wrap up the cool down."
+  }
+]
