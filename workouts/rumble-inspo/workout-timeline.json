@@ -1,0 +1,1436 @@
+[
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_start_1_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Begin the session with an overview of the workout ahead, prepare mentally and physically."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-warmup_2_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with a 3 mph speed."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-warmup_2_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep your strides smooth and even."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-warmup_2_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Stay focused, get into the zone."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_transition-to-cardio_3_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Focus your mind and prepare for a cardio session, maintaining a steady pace throughout."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-1_4_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with an easy pace of 5 miles per hour."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-1_4_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain your pace, keep it steady."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-1_4_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Almost there, continue this pace for another 20 seconds before interval ends."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-2_5_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Let's go, stage 2 is starting."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-2_5_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Speed at 6 miles per hour, keep it up."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-2_5_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep the pace steady. This is moderately challenging."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-3_6_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Ramp up speed to 7 mi/hr. Keep your core engaged."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-3_6_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain speed. Look straight. Don't bend back."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-1-stage-3_6_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Almost there. Keep focused. Don't slow down."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-1_7_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Cue: Begin at an easy pace, 5 miles per hour."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-1_7_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain your speed. This is your target cardio speed."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-1_7_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Hold this for another 20 seconds. Keep the pace at 5 miles per hour."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-2_8_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start at a 6 mi/hr pace."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-2_8_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain your speed. Push through the challenge."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-2_8_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Almost there, keep pushing!"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-3_9_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Increase speed to 7 mph."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-3_9_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain this pace. Push through."
+  },
+  {
+    "elapsed_seconds": 13,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-2-stage-3_9_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep up the effort, almost there."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-1_10_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with easy pace. Set your speed to 5 miles per hour."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-1_10_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain this speed, keep your form."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-1_10_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Stay consistent, we're nearing the end of this stage."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-2_11_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Stage 2 begins. Set treadmill to 6 mi/h."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-2_11_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain pace, exert moderate effort."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-2_11_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Sustain speed. Watch your breathing."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-3_12_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with speed at 7mph."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-3_12_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep that form, push through heels."
+  },
+  {
+    "elapsed_seconds": 14,
+    "play_audio": "cardio_cardio-treadmill-interval-1-set-3-stage-3_12_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain speed, almost there."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_transition-from-cardio-1-2_13_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Slow your pace down now to 3 miles per hour, keep your form in check."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-1_14_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with an easy pace at 5.5 miles per hour."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-1_14_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain steadiness. Keep it at 5.5."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-1_14_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Don't let up, maintain 5.5 speed to the end."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-2_15_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Kick up to 6.5 mph speed"
+  },
+  {
+    "elapsed_seconds": 14,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-2_15_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain posture and form"
+  },
+  {
+    "elapsed_seconds": 28,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-2_15_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep up the pace, stay challenging"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-3_16_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "You're on. Start at a treadmill speed of 7.5 mph. Keep pushing."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-1-stage-3_16_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "You're at the end. Finesse your finish."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-1_17_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start at 5.5 miles per hour, easy pace."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-1_17_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain form, chest open."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-1_17_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Stay steady on speed, almost there."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-2_18_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with a moderately challenging pace. Target speed 6.5 mi/h."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-2_18_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep the form tight, back straight."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-2_18_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain the pace and focus. Push through till the end."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-3_19_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Increase speed to 7.5 mph."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-3_19_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain this pace."
+  },
+  {
+    "elapsed_seconds": 14,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-2-stage-3_19_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Prepare for next exercise."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-1_20_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start with a comfortable pace at 5.5 mi/h."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-1_20_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Stay focused on maintaining the pace."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-1_20_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep going, you are doing well. Easy pace, remember?"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-2_21_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Begin at 6.5 mph. Core tight. Breathe."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-2_21_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain speed. Heels down."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-2_21_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep form. Almost there."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-3_22_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Push the treadmill to 7.5mi/hour."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-3_22_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Engage your core, keep your chest up."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-2-set-3-stage-3_22_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain speed, give it your best effort."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_transition-from-cardio-2-3_23_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Start transitioning from cardio, slow down your pace to a target speed of 3 miles per hour, maintain the same level of intensity and focus."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-1_24_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start your treadmill, aim for a pace of 5.5 miles per hour."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-1_24_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep up a steady pace, keep your breathing even."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-1_24_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Don't slow down, maintain that 5.5 mph speed."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-2_25_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start strong. Speed up to 7 mph."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-2_25_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Drive those knees, stay focused."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-2_25_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Push! You're almost there. Keep the rhythm."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-3_26_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Ramp up to 8 mph"
+  },
+  {
+    "elapsed_seconds": 5,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-3_26_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain speed, maximize effort"
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-1-stage-3_26_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Push through, maintain form"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-1_27_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Begin at 5.5 miles per hour."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-1_27_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Steady pace, keep your breath controlled."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-1_27_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain 5.5 miles per hour. Push it."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-2_28_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Get ready, set the treadmill at 7 miles per hour"
+  },
+  {
+    "elapsed_seconds": 13,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-2_28_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep your posture upright, engage your core"
+  },
+  {
+    "elapsed_seconds": 27,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-2_28_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain your speed, push it to the end"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-3_29_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Achieve 8 mile/hour speed. Focus on max effort."
+  },
+  {
+    "elapsed_seconds": 5,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-3_29_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain speed. Deep breaths."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-3_29_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Dig deep. Keep it up."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-2-stage-3_29_4.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Almost there. Push through!"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-1_30_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Begin at 5.5 mi/h, keep a steady pace."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-1_30_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep it up, maintain the speed."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-1_30_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "You're doing great, 20 seconds left."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-2_31_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Start treadmill. Aim for 7 miles per hour speed."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-2_31_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Keep that pace steady, push through this."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-2_31_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Hold the pace steady, you're doing great."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-3_32_1.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Increase speed to 8 mph, max effort."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-3_32_2.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Maintain the pace."
+  },
+  {
+    "elapsed_seconds": 18,
+    "play_audio": "cardio_cardio-treadmill-interval-3-set-3-stage-3_32_3.mp3",
+    "type": "CARDIO",
+    "prompt_text": "Prepare to transition. Keep effort high."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_transition-out-of-cardio_33_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Slow down your pace to a target speed of 3 miles per hour for the next 60 seconds."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_transition-into-hiit-1_34_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Grab your two sets of dumbbells, one light, one medium."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "transition_transition-into-hiit-1_34_2.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Prepare for lat raises with the light set."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "transition_transition-into-hiit-1_34_3.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "High volume reps will be the focus here."
+  },
+  {
+    "elapsed_seconds": 45,
+    "play_audio": "transition_transition-into-hiit-1_34_4.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Double check your posture and stance."
+  },
+  {
+    "elapsed_seconds": 60,
+    "play_audio": "transition_transition-into-hiit-1_34_5.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Deadlifts are next, with the medium set."
+  },
+  {
+    "elapsed_seconds": 75,
+    "play_audio": "transition_transition-into-hiit-1_34_6.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Aim for high volume again; ensure form is correct."
+  },
+  {
+    "elapsed_seconds": 90,
+    "play_audio": "transition_transition-into-hiit-1_34_7.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Keep breathing, form sharp, and focus maintained."
+  },
+  {
+    "elapsed_seconds": 105,
+    "play_audio": "transition_transition-into-hiit-1_34_8.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Clear your space in preparation for the next interval."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_jumping-jacks-1_35_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start jumping jacks. Keep your body straight during the movement."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_jumping-jacks-1_35_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your hands raised. Bring them together at the top."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "hiit_jumping-jacks-1_35_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Jump your feet out and in, full range of motion. Keep up the pace."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_jumping-jacks-1-transition_36_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Commence jumping jacks."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_jumping-jacks-1-transition_36_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your back straight, maintain a soft knee."
+  },
+  {
+    "elapsed_seconds": 6,
+    "play_audio": "hiit_jumping-jacks-1-transition_36_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Be sure your arms extend fully on each jump."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_pushup-1_37_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start with pushups. Keep a straight line from your head to your heels."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_pushup-1_37_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Lower your body to the ground and push back with your chest muscles."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_pushup-1_37_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your back straight, abdominals tight. Control the movement."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_pushup-1-transition_38_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start transitioning"
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_pushup-1-transition_38_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepping for pushup, hands below shoulders"
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_pushup-1-transition_38_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Ready position with body in straight line"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_crunches-1_39_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start crunches. Maintain tight core, exhale at contraction."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_crunches-1_39_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Don't pull on your neck, keep it relaxed and in line with spine."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_crunches-1_39_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Elbows wide, shoulder blades off the ground. Keep breathing even."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_transition-into-hiit-1-repeat-1_40_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare for High Intensity Interval Training (HIIT)."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_transition-into-hiit-1-repeat-1_40_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Ensure stable footing, engage core."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_transition-into-hiit-1-repeat-1_40_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Intensify pace progressively, be ready for HIIT."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_jumping-jacks-2_41_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start jumping jacks. Arm extension full, legs wide."
+  },
+  {
+    "elapsed_seconds": 17,
+    "play_audio": "hiit_jumping-jacks-2_41_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep pace. Stay light on your feet, core tight."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_jumping-jacks-2_41_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Final push, keep your form. Full arm extension, full leg spread."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_jumping-jacks-2-transition_42_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start jumping jacks transition."
+  },
+  {
+    "elapsed_seconds": 2,
+    "play_audio": "hiit_jumping-jacks-2-transition_42_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Land softly on balls of feet."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_jumping-jacks-2-transition_42_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep chest up, eyes forward."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_pushup-2_43_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin pushups, chest down to the floor, back straight."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_pushup-2_43_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Engage your core and keep glutes tight."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_pushup-2_43_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain consistent effort, final push!"
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_pushup-2-transition_44_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start transition to pushups."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_pushup-2-transition_44_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Ensure body is aligned, hands shoulder-width apart."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_pushup-2-transition_44_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain core stability for effective pushups next."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_crunches-2_45_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Get ready for crunches."
+  },
+  {
+    "elapsed_seconds": 5,
+    "play_audio": "hiit_crunches-2_45_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your back flat and focus on abs."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "hiit_crunches-2_45_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Remember to breathe. On the up, exhale. Inhale as you lower."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_transition-into-hiit-2_46_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare for High-Intensity Interval Training (HIIT). Stand tall, feet hip-width apart."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_transition-into-hiit-2_46_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Brace your core and keep the chest up."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_transition-into-hiit-2_46_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Breathe. Get ready for the high intensity."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_db-lunges-1_47_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start with alternating dumbbell lunges. Place a dumbbell in each hand."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_db-lunges-1_47_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Make a step forward with your right foot. Bring your left knee close to the ground. Keep a 90 degree angle at the knees. Return to standing."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_db-lunges-1_47_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Repeat with your left foot. Keep your chest up and your gaze straightforward. Switch legs for each rep."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_db-lunges-1-transition_48_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Transition to dumbbell lunges."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_db-lunges-1-transition_48_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain a firm grip on the weights."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "hiit_db-lunges-1-transition_48_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Step forward with one leg, keeping your back straight."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_strict-press-1_49_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start with strict press. Feet hip-width, elbows in front of bar."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_strict-press-1_49_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Push the bar directly overhead. Keep your body rigid."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_strict-press-1_49_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Lower bar to shoulders slowly. Maintain control."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_strict-press-1-transition_50_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin transition."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_strict-press-1-transition_50_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Set up for strict press. Stand tall, chest up, barbell rested at your shoulder level."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_strict-press-1-transition_50_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Take a deep breath, preparing for strict press."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_inchworm-1_51_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start inchworm movement."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_inchworm-1_51_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain flat back, walk hands out."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_inchworm-1_51_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Walk hands back, stand tall."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_transition-into-hiit-2-repeat-1_52_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin transition. Clear your space."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_transition-into-hiit-2-repeat-1_52_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Brace your core, keep head level."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_transition-into-hiit-2-repeat-1_52_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Inhale, tense muscles, be ready for next round."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_db-lunges-2_53_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin alternating dumbbell lunges."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "hiit_db-lunges-2_53_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Step forward with one foot while dropping your hips to lower your body."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_db-lunges-2_53_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your front knee directly above your ankle and back knee hovering just off the floor. Brace your core, then push up through the forward heel back to the starting position. Alternating legs."
+  },
+  {
+    "elapsed_seconds": 25,
+    "play_audio": "hiit_db-lunges-2_53_4.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain good posture and control your breathing. Keep up the effort. Stay focused."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_db-lunges-2-transition_54_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare to start dumbbell lunges."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "hiit_db-lunges-2-transition_54_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain straight posture, chest up, shoulder blades back and down."
+  },
+  {
+    "elapsed_seconds": 25,
+    "play_audio": "hiit_db-lunges-2-transition_54_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "As you lunge, ensure knee is aligned with the ankle, not past the toes."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_db-lunges-2-transition_54_4.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your core engaged throughout. Interval end is near."
+  },
+  {
+    "elapsed_seconds": 45,
+    "play_audio": "hiit_db-lunges-2-transition_54_5.mp3",
+    "type": "HIIT",
+    "prompt_text": "Brace for transition."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_strict-press-2_55_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Strict press starts. Thumbs length from shoulders, bar in front."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_strict-press-2_55_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Extend arms full-length, breathe out. Don't arch back."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_strict-press-2_55_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Lower the bar slowly. Maintain posture."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_strict-press-2-transition_56_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start strict press transition."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_strict-press-2-transition_56_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep chest up, head neutral while un-racking weight."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_strict-press-2-transition_56_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain steady breathing, cone to lighten grip."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_inchworm-2_57_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start with the inchworm exercise."
+  },
+  {
+    "elapsed_seconds": 5,
+    "play_audio": "hiit_inchworm-2_57_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your legs straight, walk your hands forward until you're in a plank."
+  },
+  {
+    "elapsed_seconds": 8,
+    "play_audio": "hiit_inchworm-2_57_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Now walk your hands back to your feet, maintaining that straight leg position."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_transition-into-hiit-3_58_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare for HIIT circuit 5, set 2."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_transition-into-hiit-3_58_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Brace your core, keep your chest open."
+  },
+  {
+    "elapsed_seconds": 30,
+    "play_audio": "hiit_transition-into-hiit-3_58_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain a steady breath to control heart rate."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_goblet-squat-1_60_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Starting goblet squat. Ensure feet are shoulder-width apart."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_goblet-squat-1_60_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Lower into squat, keep elbows between knees."
+  },
+  {
+    "elapsed_seconds": 6,
+    "play_audio": "hiit_goblet-squat-1_60_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Stand back up, weight on heels."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_goblet-squat-1-transition_61_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Set down your weights, prepare for goblet squat."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_goblet-squat-1-transition_61_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Feet shoulder width apart, hold dumbbell at chest height."
+  },
+  {
+    "elapsed_seconds": 50,
+    "play_audio": "hiit_goblet-squat-1-transition_61_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain neutral spine, deep inhale while squatting, exhale when standing."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_row-1_62_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start rowing, drive with the legs, lean back, pull the handle."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_row-1_62_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain good form. Powerful leg-drive, lean back at the hips, elbows tucked at sides."
+  },
+  {
+    "elapsed_seconds": 45,
+    "play_audio": "hiit_row-1_62_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep the pace, full effort. Breathe out as you drive, in as you recover."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_row-1-transition_63_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Get ready to changeover for your upcoming rowing segment."
+  },
+  {
+    "elapsed_seconds": 4,
+    "play_audio": "hiit_row-1-transition_63_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Ensure smooth transition, no wasted motion."
+  },
+  {
+    "elapsed_seconds": 8,
+    "play_audio": "hiit_row-1-transition_63_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Be efficient, prepare position for rowing."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_cycles-abs-1_64_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start bicycle abs. Keep your back flat."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_cycles-abs-1_64_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Exhale as you pull your knee to your chest. Keep engaging your core."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_cycles-abs-1_64_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep a consistent pace. Remember to breathe."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_transition-into-hiit-3-repeat-1_66_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Get ready for HIIT round 3."
+  },
+  {
+    "elapsed_seconds": 2,
+    "play_audio": "hiit_transition-into-hiit-3-repeat-1_66_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Assume start position, feet shoulder-width apart."
+  },
+  {
+    "elapsed_seconds": 5,
+    "play_audio": "hiit_transition-into-hiit-3-repeat-1_66_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Brace core, prepare for explosive movements."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_goblet-squat-2_67_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start with goblet squats. Hold weight at chest level, feet hip-width apart."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_goblet-squat-2_67_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Dip hips back, bend knees to lower into squat. Keep chest up and weight on heels."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_goblet-squat-2_67_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Drive through heels, return standing. Keep weight close to chest. Remember, intensity is key."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_goblet-squat-2-transition_68_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "This is a goblet squat transition exercise."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_goblet-squat-2-transition_68_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Position yourself. Keep your feet hip-width apart, holding the 'goblet' close to your chest."
+  },
+  {
+    "elapsed_seconds": 75,
+    "play_audio": "hiit_goblet-squat-2-transition_68_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Squat down, pushing your hips back and bending knees. Keep your chest upright."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_row-2_69_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start the row. Pull hard with your back and legs."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_row-2_69_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your chest up, rarely bend your knees. The power comes from the hips, not the lower back."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_row-2_69_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Stay consistent, 10 seconds left. Push through the heels and drive back."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_row-2-transition_70_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Transition into the row. Secure your feet on the footplates. Grab the handles."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_row-2-transition_70_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Hinge at the hip, maintain a straight back while you begin the row."
+  },
+  {
+    "elapsed_seconds": 7,
+    "play_audio": "hiit_row-2-transition_70_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Don't rush the stroke, maintain a steady rhythm."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_cycles-abs-2_71_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin bicycle abs exercise. Keep your back flat on the ground."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_cycles-abs-2_71_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Rotate your torso, touch your elbow to opposite knee."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_cycles-abs-2_71_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Breathe out on every twist, engage your core."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_transition-into-hiit-4_72_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Starting transition."
+  },
+  {
+    "elapsed_seconds": 3,
+    "play_audio": "hiit_transition-into-hiit-4_72_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Prepare for next set of exercises, engage your core."
+  },
+  {
+    "elapsed_seconds": 8,
+    "play_audio": "hiit_transition-into-hiit-4_72_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your breathing steady."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_deadlift-1_73_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin deadlifts now. Feet shoulder width apart."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_deadlift-1_73_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep back straight, don't rush."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "hiit_deadlift-1_73_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Hinge at hips, squeeze glutes at the top."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_deadlift-1-transition_74_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Position your feet hip-width apart, grab your weights and engage your core as we transition into the next deadlift exercise."
+  },
+  {
+    "elapsed_seconds": 8,
+    "play_audio": "transition_deadlift-1-transition_74_2.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Keep your back flat and concentrate on maintaining good form."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_lateral-raises-1_75_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin lateral raises, maintain straight arms, level lift to shoulder height."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_lateral-raises-1_75_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep steady core, shoulder blades down and back."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_lateral-raises-1_75_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Smooth raise and lower, don't swing weights, controlled movement."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "transition_lateral-raises-1-transition_76_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Transition now, prepare for the next interval which will be lateral raises."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_mountain climbers-1-transition_77_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Starting mountain climbers. Hands under shoulders, high plank."
+  },
+  {
+    "elapsed_seconds": 17,
+    "play_audio": "hiit_mountain climbers-1-transition_77_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep core engaged. Pull knees to chest rapidly."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "hiit_mountain climbers-1-transition_77_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain breathing, exhale as each knee drives forward."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_transition-into-hiit-4-repeat-1_78_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Prepare for the next High Intensity Interval Training - HIIT - round 4, repeat 1."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_deadlift-2_79_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start deadlifting. Keep back straight, weight in heels."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_deadlift-2_79_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Drive through the heels, pull bar up, keeping it close to your body."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "hiit_deadlift-2_79_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Remember to fully extend the hips at the top. Good form is key. Don't rush the reps."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_deadlift-2-transition_80_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Prepare for the next Deadlift rotation with control and precision."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_lateral-raises-2_81_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start lateral raises. Stand tall, chest up, shoulders back."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_lateral-raises-2_81_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Raise your arms out to the sides, no higher than shoulders."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "hiit_lateral-raises-2_81_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Control your movement, slow on the descent."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "transition_lateral-raises-2-transition_82_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Brace your core, reset your posture, and ready your dumbbells for lateral raises in the next cycle."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_mountain climbers-2_83_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start mountain climbers. Draw in your core, engage your abs, maintain a straight line from head to toe."
+  },
+  {
+    "elapsed_seconds": 15,
+    "play_audio": "hiit_mountain climbers-2_83_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep the pace steady. Breathe rhythmically, exhale as you draw a knee in."
+  },
+  {
+    "elapsed_seconds": 35,
+    "play_audio": "hiit_mountain climbers-2_83_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep pushing. Ensure your hands are directly under your shoulders. Firm core."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_burpee-1_85_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Begin burpees, maximum effort."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "hiit_burpee-1_85_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Keep your core tight, jump back into a plank."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_burpee-1_85_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Jump feet forward, explode up, reach hands to the sky."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "hiit_burpee-2_87_1.mp3",
+    "type": "HIIT",
+    "prompt_text": "Start with burpees. Land softly and engage your core."
+  },
+  {
+    "elapsed_seconds": 10,
+    "play_audio": "hiit_burpee-2_87_2.mp3",
+    "type": "HIIT",
+    "prompt_text": "Explosively jump with full extension. Breathe out on the way up."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "hiit_burpee-2_87_3.mp3",
+    "type": "HIIT",
+    "prompt_text": "Maintain your form. Push yourself, it's a max-effort set."
+  },
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "transition_close out_88_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Start transitioning and close out your workout, focusing on appreciating your hard work and visualizing your athletic growth. After 57 seconds, begin to slow down in preparation for rest."
+  }
+]
