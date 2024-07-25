@@ -1,0 +1,530 @@
+[
+  {
+    "elapsed_seconds": 0,
+    "play_audio": "lift_incline bench press_1_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Incline Bench Press, set your back flat on the bench."
+  },
+  {
+    "elapsed_seconds": 20,
+    "play_audio": "lift_incline bench press_1_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Maintain grip shoulder-width apart, lower bar to chest level."
+  },
+  {
+    "elapsed_seconds": 40,
+    "play_audio": "lift_incline bench press_1_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Push bar above chest, without locking elbows. Keep controlled motion."
+  },
+  {
+    "elapsed_seconds": 60,
+    "play_audio": "rest__2_1.mp3",
+    "type": "REST",
+    "prompt_text": "Begin rest period. Breathe deeply and loosen your muscles."
+  },
+  {
+    "elapsed_seconds": 110,
+    "play_audio": "rest__2_2.mp3",
+    "type": "REST",
+    "prompt_text": "Maintain rest. Remember not to engage next segment too soon."
+  },
+  {
+    "elapsed_seconds": 145,
+    "play_audio": "rest__2_3.mp3",
+    "type": "REST",
+    "prompt_text": "End rest in 5 seconds. Prepare for next interval."
+  },
+  {
+    "elapsed_seconds": 150,
+    "play_audio": "lift_incline bench press_3_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin Incline Bench Press, set two of circuit one."
+  },
+  {
+    "elapsed_seconds": 160,
+    "play_audio": "lift_incline bench press_3_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep wrists aligned with forearms, lower bar to chest slowly."
+  },
+  {
+    "elapsed_seconds": 195,
+    "play_audio": "lift_incline bench press_3_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Fully extend arms. Complete final rep and rack the barbell."
+  },
+  {
+    "elapsed_seconds": 210,
+    "play_audio": "rest__4_1.mp3",
+    "type": "REST",
+    "prompt_text": "Begin rest. Focus on deep, controlled breaths."
+  },
+  {
+    "elapsed_seconds": 260,
+    "play_audio": "rest__4_2.mp3",
+    "type": "REST",
+    "prompt_text": "Continue resting. Stay hydrated."
+  },
+  {
+    "elapsed_seconds": 295,
+    "play_audio": "rest__4_3.mp3",
+    "type": "REST",
+    "prompt_text": "Rest is nearly ending, prepare mentally for next segment."
+  },
+  {
+    "elapsed_seconds": 300,
+    "play_audio": "lift_incline bench press_5_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Start with the Incline Bench Press."
+  },
+  {
+    "elapsed_seconds": 305,
+    "play_audio": "lift_incline bench press_5_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your feet planted on the floor. Press the bar up explosively."
+  },
+  {
+    "elapsed_seconds": 350,
+    "play_audio": "lift_incline bench press_5_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Control the weight on the way down. Squeeze your chest on the way up."
+  },
+  {
+    "elapsed_seconds": 355,
+    "play_audio": "lift_incline bench press_5_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Good form is important. Keep your elbows from flaring out."
+  },
+  {
+    "elapsed_seconds": 360,
+    "play_audio": "rest__6_1.mp3",
+    "type": "REST",
+    "prompt_text": "Start 90-second rest period."
+  },
+  {
+    "elapsed_seconds": 400,
+    "play_audio": "rest__6_2.mp3",
+    "type": "REST",
+    "prompt_text": "Continue resting, still have 60 seconds."
+  },
+  {
+    "elapsed_seconds": 440,
+    "play_audio": "rest__6_3.mp3",
+    "type": "REST",
+    "prompt_text": "Finish strong, final 10 seconds to rest."
+  },
+  {
+    "elapsed_seconds": 450,
+    "play_audio": "lift_incline bench press_7_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin Incline Bench Press."
+  },
+  {
+    "elapsed_seconds": 455,
+    "play_audio": "lift_incline bench press_7_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep your feet firmly on the ground, back flat on the bench."
+  },
+  {
+    "elapsed_seconds": 480,
+    "play_audio": "lift_incline bench press_7_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Elbows at 45-degree angles, press the weight up at a steady pace."
+  },
+  {
+    "elapsed_seconds": 505,
+    "play_audio": "lift_incline bench press_7_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Finish strong. Make sure to fully extend arms before lowering the weight."
+  },
+  {
+    "elapsed_seconds": 510,
+    "play_audio": "rest__9_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down and ease into rest."
+  },
+  {
+    "elapsed_seconds": 540,
+    "play_audio": "rest__9_2.mp3",
+    "type": "REST",
+    "prompt_text": "Keep it calm, don't rush. Rest continues."
+  },
+  {
+    "elapsed_seconds": 590,
+    "play_audio": "rest__9_3.mp3",
+    "type": "REST",
+    "prompt_text": "10 seconds to end rest. Breathe."
+  },
+  {
+    "elapsed_seconds": 600,
+    "play_audio": "lift_db chest press_10_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin Flat DB Chest Press. Remember to plant your feet firmly and maintain a neutral spine."
+  },
+  {
+    "elapsed_seconds": 615,
+    "play_audio": "lift_db chest press_10_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "As you breathe out, push the dumbbells straight up."
+  },
+  {
+    "elapsed_seconds": 630,
+    "play_audio": "lift_db chest press_10_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Maintain a slow, controlled motion. Don't let the weights touch at the top."
+  },
+  {
+    "elapsed_seconds": 660,
+    "play_audio": "rest__11_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down, your rest period is starting."
+  },
+  {
+    "elapsed_seconds": 700,
+    "play_audio": "rest__11_2.mp3",
+    "type": "REST",
+    "prompt_text": "Good. Your rest is important. Continue to relax."
+  },
+  {
+    "elapsed_seconds": 745,
+    "play_audio": "rest__11_3.mp3",
+    "type": "REST",
+    "prompt_text": "Almost time to start again. Prepare yourself."
+  },
+  {
+    "elapsed_seconds": 750,
+    "play_audio": "lift_db chest press_12_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting Flat DB Chest Press, lie on your back, dumbbells in hand."
+  },
+  {
+    "elapsed_seconds": 765,
+    "play_audio": "lift_db chest press_12_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "As you press, ensure wrists are straight, elbows at 90 degrees."
+  },
+  {
+    "elapsed_seconds": 785,
+    "play_audio": "lift_db chest press_12_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Squeeze your chest at the top of each lift. Avoid complete lockout."
+  },
+  {
+    "elapsed_seconds": 810,
+    "play_audio": "rest__13_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down, you're entering rest period."
+  },
+  {
+    "elapsed_seconds": 845,
+    "play_audio": "rest__13_2.mp3",
+    "type": "REST",
+    "prompt_text": "Keep resting, maintain your cool."
+  },
+  {
+    "elapsed_seconds": 895,
+    "play_audio": "rest__13_3.mp3",
+    "type": "REST",
+    "prompt_text": "Almost set, get ready for next, but keep resting currently."
+  },
+  {
+    "elapsed_seconds": 900,
+    "play_audio": "lift_db chest press_14_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin Flat DB Chest Press. Control the weight."
+  },
+  {
+    "elapsed_seconds": 920,
+    "play_audio": "lift_db chest press_14_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Don't rush. Feel the tension."
+  },
+  {
+    "elapsed_seconds": 945,
+    "play_audio": "lift_db chest press_14_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Stay focused. Final reps. Keep control."
+  },
+  {
+    "elapsed_seconds": 1050,
+    "play_audio": "lift_decline chest fly_16_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin the Dip exercise."
+  },
+  {
+    "elapsed_seconds": 1055,
+    "play_audio": "lift_decline chest fly_16_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep elbows slightly bent, lower and lift in controlled movement."
+  },
+  {
+    "elapsed_seconds": 1100,
+    "play_audio": "lift_decline chest fly_16_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Get ready to transition, last Dip."
+  },
+  {
+    "elapsed_seconds": 1110,
+    "play_audio": "rest__17_1.mp3",
+    "type": "REST",
+    "prompt_text": "Going into rest. Slow down."
+  },
+  {
+    "elapsed_seconds": 1135,
+    "play_audio": "rest__17_2.mp3",
+    "type": "REST",
+    "prompt_text": "Continue resting. Breathe deeply."
+  },
+  {
+    "elapsed_seconds": 1175,
+    "play_audio": "rest__17_3.mp3",
+    "type": "REST",
+    "prompt_text": "Finish strong. Rest nearly done."
+  },
+  {
+    "elapsed_seconds": 1200,
+    "play_audio": "lift_decline chest fly_18_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin Dip exercise, targeting chest with controlled movement."
+  },
+  {
+    "elapsed_seconds": 1207,
+    "play_audio": "lift_decline chest fly_18_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Maintain straight posture, lower your body until a slight stretch is felt in the chest."
+  },
+  {
+    "elapsed_seconds": 1220,
+    "play_audio": "lift_decline chest fly_18_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Slowly push body up to starting position, without locking out the elbows."
+  },
+  {
+    "elapsed_seconds": 1350,
+    "play_audio": "lift_db lateral raise_20_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Start Incline DB Lateral Raise. Make sure your back is flat against the incline bench."
+  },
+  {
+    "elapsed_seconds": 1365,
+    "play_audio": "lift_db lateral raise_20_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Lift dumbbells to shoulder height, keep wrists straight."
+  },
+  {
+    "elapsed_seconds": 1400,
+    "play_audio": "lift_db lateral raise_20_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Slowly lower dumbbells to starting position. Maintain control."
+  },
+  {
+    "elapsed_seconds": 1410,
+    "play_audio": "rest__21_1.mp3",
+    "type": "REST",
+    "prompt_text": "Ease off, it's time to rest."
+  },
+  {
+    "elapsed_seconds": 1430,
+    "play_audio": "rest__21_2.mp3",
+    "type": "REST",
+    "prompt_text": "Maintain slow paced breathing, relax your muscles."
+  },
+  {
+    "elapsed_seconds": 1470,
+    "play_audio": "rest__21_3.mp3",
+    "type": "REST",
+    "prompt_text": "30 more seconds. Stay relaxed."
+  },
+  {
+    "elapsed_seconds": 1500,
+    "play_audio": "lift_db lateral raise_22_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Start with Incline DB Lateral Raise."
+  },
+  {
+    "elapsed_seconds": 1510,
+    "play_audio": "lift_db lateral raise_22_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Grasp dumbbells. Keep your back flat on the bench."
+  },
+  {
+    "elapsed_seconds": 1530,
+    "play_audio": "lift_db lateral raise_22_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Lift arms to your side, keep them straight."
+  },
+  {
+    "elapsed_seconds": 1555,
+    "play_audio": "lift_db lateral raise_22_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Control descent, do not drop your arms."
+  },
+  {
+    "elapsed_seconds": 1560,
+    "play_audio": "rest__23_1.mp3",
+    "type": "REST",
+    "prompt_text": "Slow down, begin rest."
+  },
+  {
+    "elapsed_seconds": 1630,
+    "play_audio": "rest__23_2.mp3",
+    "type": "REST",
+    "prompt_text": "Keep resting, almost there."
+  },
+  {
+    "elapsed_seconds": 1645,
+    "play_audio": "rest__23_3.mp3",
+    "type": "REST",
+    "prompt_text": "Rest complete."
+  },
+  {
+    "elapsed_seconds": 1650,
+    "play_audio": "lift_db lateral raise_24_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Begin Incline DB Lateral Raise. Remember, control is key."
+  },
+  {
+    "elapsed_seconds": 1665,
+    "play_audio": "lift_db lateral raise_24_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Raise weights to shoulder height only. Slight bend in elbows."
+  },
+  {
+    "elapsed_seconds": 1685,
+    "play_audio": "lift_db lateral raise_24_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Lower weights slowly, maintain control and tension."
+  },
+  {
+    "elapsed_seconds": 1710,
+    "play_audio": "rest__25_1.mp3",
+    "type": "REST",
+    "prompt_text": "Time to slow down. Start resting."
+  },
+  {
+    "elapsed_seconds": 1730,
+    "play_audio": "rest__25_2.mp3",
+    "type": "REST",
+    "prompt_text": "Take the full 60 seconds. No cheating."
+  },
+  {
+    "elapsed_seconds": 1775,
+    "play_audio": "rest__25_3.mp3",
+    "type": "REST",
+    "prompt_text": "Keep resting, we're not done yet."
+  },
+  {
+    "elapsed_seconds": 1800,
+    "play_audio": "lift_db lateral raise_26_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Start Incline DB Lateral Raise. Keep back pressed against incline."
+  },
+  {
+    "elapsed_seconds": 1820,
+    "play_audio": "lift_db lateral raise_26_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Hold dumbbells at your side, raise to shoulder height, squeeze at the top."
+  },
+  {
+    "elapsed_seconds": 1850,
+    "play_audio": "lift_db lateral raise_26_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Control your movement on the way down, complete for 10-15 reps."
+  },
+  {
+    "elapsed_seconds": 1950,
+    "play_audio": "lift_rear delt raise_29_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Start Bent Over Rear Delt DB Raise."
+  },
+  {
+    "elapsed_seconds": 1970,
+    "play_audio": "lift_rear delt raise_29_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep back flat, use your rear deltoids to lift the weight."
+  },
+  {
+    "elapsed_seconds": 1990,
+    "play_audio": "lift_rear delt raise_29_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Ensure a slow, controlled movement, contracting at the top."
+  },
+  {
+    "elapsed_seconds": 2100,
+    "play_audio": "lift_rear delt raise_31_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting Bent Over Rear Delt DB Raise. Position yourself, slight knee bend, bend at your waist."
+  },
+  {
+    "elapsed_seconds": 2110,
+    "play_audio": "lift_rear delt raise_31_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Raise your arms out to your sides, keep your elbows slightly bent."
+  },
+  {
+    "elapsed_seconds": 2130,
+    "play_audio": "lift_rear delt raise_31_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Lower dumbbells slowly. Keep your back straight, brace your core whole time."
+  },
+  {
+    "elapsed_seconds": 2155,
+    "play_audio": "lift_rear delt raise_31_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Prepare to finish."
+  },
+  {
+    "elapsed_seconds": 2250,
+    "play_audio": "lift_rear delt raise_33_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting Bent Over Rear Delt DB Raise."
+  },
+  {
+    "elapsed_seconds": 2260,
+    "play_audio": "lift_rear delt raise_33_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Keep a slight bend in your knees, hinge at the hips, keep back flat."
+  },
+  {
+    "elapsed_seconds": 2275,
+    "play_audio": "lift_rear delt raise_33_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Raise the weights out to the sides, squeeze shoulder blades together."
+  },
+  {
+    "elapsed_seconds": 2305,
+    "play_audio": "lift_rear delt raise_33_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Control the weights on the way down, don't let them drop."
+  },
+  {
+    "elapsed_seconds": 2400,
+    "play_audio": "lift_rear delt raise_35_1.mp3",
+    "type": "LIFT",
+    "prompt_text": "Starting Bent Over Rear Delt DB Raise."
+  },
+  {
+    "elapsed_seconds": 2410,
+    "play_audio": "lift_rear delt raise_35_2.mp3",
+    "type": "LIFT",
+    "prompt_text": "Hinge at the waist, maintain slight bend at the knees."
+  },
+  {
+    "elapsed_seconds": 2430,
+    "play_audio": "lift_rear delt raise_35_3.mp3",
+    "type": "LIFT",
+    "prompt_text": "Raise dumbbells to sides, keep shoulders down."
+  },
+  {
+    "elapsed_seconds": 2455,
+    "play_audio": "lift_rear delt raise_35_4.mp3",
+    "type": "LIFT",
+    "prompt_text": "Maintain tension, almost there."
+  },
+  {
+    "elapsed_seconds": 2460,
+    "play_audio": "transition__36_1.mp3",
+    "type": "TRANSITION",
+    "prompt_text": "Begin celebrating your hard work and progress, maintain positivity."
+  }
+]
